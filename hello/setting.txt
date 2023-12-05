@@ -1,0 +1,2 @@
+# setting #
+https://code.visualstudio.com/docs/java/java-linting
